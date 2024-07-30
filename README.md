@@ -33,5 +33,3 @@ If you'd like to contribute to this repository, please follow these guidelines:
 3. Make your changes and commit them (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
-
-## License

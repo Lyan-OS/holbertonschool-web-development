@@ -9,7 +9,6 @@ This project contains the HTML code for a homepage designed in Figma. It include
 3. [Structure](#structure)
 4. [Assets](#assets)
 5. [Figma Design](#figma-design)
-6. [License](#license)
 
 ## Introduction
 
