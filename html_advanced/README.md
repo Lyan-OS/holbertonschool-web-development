@@ -31,6 +31,30 @@ The HTML structure is organized as follows:
 - **Main**: Includes several sections for different content areas such as introduction, testimonials, popular tutorials, free membership, and FAQs.
 - **Footer**: Contains social media links and additional information.
 
+### Structure Example:
+
+HTML Code:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web Page</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Web Page</h1>
+    </header>
+    <main>
+        <p>This is the main content area.</p>
+    </main>
+    <footer>
+        <p>Footer Information</p>
+    </footer>
+</body>
+</html>
+
 ## Assets
 
 The HTML references several image files for logos, avatars, preview images, and social media icons. Make sure to place these images in the appropriate directory relative to the HTML file.
