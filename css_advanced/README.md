@@ -8,7 +8,7 @@
 
 ---
 
-## Resources:books:
+## Resources
 Read or watch:
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 * [Inline Styles in HTML](https://www.codecademy.com/article/html-inline-styles)
@@ -18,7 +18,7 @@ Read or watch:
 * [MDN](https://developer.mozilla.org/en-US/)
 
 ---
-## Learning Objectives:bulb:
+## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google**:
 
 ### General
